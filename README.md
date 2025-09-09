@@ -2,7 +2,8 @@
 
 A powerful, multi-user Streamlit application that uses AI to analyze financial reports and provide intelligent insights. Built with LangChain and Ollama for advanced document processing and natural language analysis.
 
-## Preview
+## Preview Project
+
 **Screenshot 1**
 
 <p align="center">
