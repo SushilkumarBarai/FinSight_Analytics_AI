@@ -2,6 +2,10 @@
 
 A powerful, multi-user Streamlit application that uses AI to analyze financial reports and provide intelligent insights. Built with LangChain and Ollama for advanced document processing and natural language analysis.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SushilkumarBarai/FinSight_Analytics_AI/main/Screenshot_1.png" alt="FinSight Analytics AI Screenshot" width="600"/>
+</p>
+
 
 
 ## ✨ Features
